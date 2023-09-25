@@ -1,11 +1,11 @@
 <h1>Ray Fochler <br/><a href="https://github.com/wranglerray">Cyber Security Enthusiast</a>, <a href="https://www.linkedin.com/in/ray-fochler-b104501a9//">Security Professional</a>, <a href="https://tryhackme.com/p/Wrangler">CTF Junky</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Practical Network Penetration Tester</b>
+  - [PNPT](https://www.credential.net/2c21fd82-d37a-461c-8f26-1bbba0c7d8d0)
+- <b>Practical Junior Network Penetration Tester</b>
+  - [PJPT](https://www.credential.net/f3e46db5-5a1a-418c-b432-1461910a1002#gs.5l4405)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
