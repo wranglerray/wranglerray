@@ -6,17 +6,8 @@
   - [PNPT](https://www.credential.net/2c21fd82-d37a-461c-8f26-1bbba0c7d8d0)
 - <b>Practical Junior Network Penetration Tester</b>
   - [PJPT](https://www.credential.net/f3e46db5-5a1a-418c-b432-1461910a1002#gs.5l4405)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Google</b>
+  - [Google Certified Cyber Security Professional](https://coursera.org/share/c827369c93cba16f2bcc768c2caff148)
 
 <h2>📺 Popular YouTube Videos</h2>
 
