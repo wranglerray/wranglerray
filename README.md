@@ -11,11 +11,14 @@
 
 <h2>👨‍💻 Training:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Intro to Cyber Security-TryHackMe](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Introducktiontocyber.png)
+- [Pre-Security-TryHackMe](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/presecurity.png)
+- [Junior PenTester-TryHackMe](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Jrpentester.png)
+- [Practical Ethical Hacker-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf)
+- [External Penetration Test Playbook-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-external-pentest-playbook.pdf)
+- [Linux Privliege Escalation-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-linux-privilege-escalation-for-beginners.pdf)
+- [Windows Privilege Escalation-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-windows-privilege-escalation-for-beginners.pdf)
+- [Open Source Intelligence OSINT-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
