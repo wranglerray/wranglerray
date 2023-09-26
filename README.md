@@ -21,7 +21,10 @@
 - [Open Source Intelligence OSINT-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
 
 <h2> Projects:</h2>
+
 - [Simple ping sweep written in bash](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/pingsweep.sh)
+- [Single Thread Port Scanner Written in Python](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/portscanner.py)
+- [Froesnic Investigation of Desktop](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/APTRIncidentReport9-8-2023Redacted.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
