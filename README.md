@@ -25,18 +25,19 @@
 - [Simple ping sweep written in bash](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/pingsweep.sh)
 - [Single Thread Port Scanner Written in Python](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/portscanner.py)
 - [Froesnic Investigation of Desktop](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/APTRIncidentReport9-8-2023Redacted.pdf)
+- [Blog Post Walkthrough for MD2PDF froom for TryHackMe](https://medium.com/@rrgunsite/tryhackme-md2pdf-806762bbe914)
+- [PJPT Review Blog Post](https://medium.com/@rrgunsite/tcm-securitys-pjpt-50747104df8c)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[youtube]: https://www.youtube.com/channel/UC6uyIF7HKe64mbGEZhR_waQ
+[instagram]: https://www.instagram.com/rayfochler/
+[linkedin]: https://www.linkedin.com/in/ray-fochler-b104501a9/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
