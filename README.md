@@ -40,7 +40,7 @@
 [linkedin]: https://www.linkedin.com/in/ray-fochler-b104501a9/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wranglerray/wranglerray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
