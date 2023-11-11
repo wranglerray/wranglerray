@@ -28,6 +28,7 @@
 - [Blog Post Walkthrough for MD2PDF froom for TryHackMe](https://medium.com/@rrgunsite/tryhackme-md2pdf-806762bbe914)
 - [PJPT Review Blog Post](https://medium.com/@rrgunsite/tcm-securitys-pjpt-50747104df8c)
 - [Python SSH cracking](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/ssh_crack_project.py)
+- [Pyhton powershell reverse shell generator](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/psrevgen.py)
 
 <h2> 🤳 Connect with me:</h2>
 
