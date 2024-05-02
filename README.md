@@ -19,6 +19,8 @@
 - [Linux Privliege Escalation-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-linux-privilege-escalation-for-beginners.pdf)
 - [Windows Privilege Escalation-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-windows-privilege-escalation-for-beginners.pdf)
 - [Open Source Intelligence OSINT-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
+- [Offensive Security](Pen-200 Course)
+- [Hack The Box CPTS Pathway]
 
 <h2> Projects:</h2>
 
