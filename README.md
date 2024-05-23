@@ -33,6 +33,7 @@
 - [Pyhton powershell reverse shell generator](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/psrevgen.py)
 - [Raspberry PI Jumpbox Blog](https://medium.com/@rrgunsite/the-raspberry-pi-jumpbox-d7262609b5a8)
 - [HTB Season 5 Runner](https://medium.com/@rrgunsite/82f6f12701c4)
+- [THM Vulnish Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Vulnish_report.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
