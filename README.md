@@ -35,6 +35,7 @@
 - [HTB Season 5 Runner](https://medium.com/@rrgunsite/82f6f12701c4)
 - [THM Vulnish Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Vulnish_report.pdf)
 - [Hack The Box Broadlight Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/boardlight_report.pdf)
+- [Sysreptor OSCP report Design](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/design-Customization-of-OSCP-Exam-Report-v1.1.tar.gz)
 
 <h2> 🤳 Connect with me:</h2>
 
