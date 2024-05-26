@@ -27,13 +27,14 @@
 - [Simple ping sweep written in bash](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/pingsweep.sh)
 - [Single Thread Port Scanner Written in Python](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/portscanner.py)
 - [Froesnic Investigation of Desktop](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/APTRIncidentReport9-8-2023Redacted.pdf)
-- [Blog Post Walkthrough for MD2PDF froom for TryHackMe](https://medium.com/@rrgunsite/tryhackme-md2pdf-806762bbe914)
+- [Blog Post Walkthrough for MD2PDF room for TryHackMe](https://medium.com/@rrgunsite/tryhackme-md2pdf-806762bbe914)
 - [PJPT Review Blog Post](https://medium.com/@rrgunsite/tcm-securitys-pjpt-50747104df8c)
 - [Python SSH cracking](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/ssh_crack_project.py)
 - [Pyhton powershell reverse shell generator](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/psrevgen.py)
 - [Raspberry PI Jumpbox Blog](https://medium.com/@rrgunsite/the-raspberry-pi-jumpbox-d7262609b5a8)
 - [HTB Season 5 Runner](https://medium.com/@rrgunsite/82f6f12701c4)
 - [THM Vulnish Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Vulnish_report.pdf)
+- [Hack The Box Broadlight Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/boardlight_report.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
