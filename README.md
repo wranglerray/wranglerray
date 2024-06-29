@@ -22,7 +22,7 @@
 - [Windows Privilege Escalation-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-windows-privilege-escalation-for-beginners.pdf)
 - [Open Source Intelligence OSINT-TCM Academy](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
 - [Offensive Security](Pen-200 Course)
-- [Hack The Box CPTS Pathway]
+- [Hack The Box CPTS Pathway](https://www.credly.com/badges/d8d05364-a06c-4f46-8731-f3eb8bf3d327/public_url)
 
 <h2> Projects:</h2>
 
