@@ -39,6 +39,7 @@
 - [Hack The Box Broadlight Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/boardlight_report.pdf)
 - [Sysreptor OSCP report Design](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/design-Customization-of-OSCP-Exam-Report-v1.1.tar.gz)
 - [Hack The Box Editorial Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/Editorial_report.pdf)
+- [Hack The Box PermX Report](https://github.com/wranglerray/My-Cyber-Security-Journey/blob/main/PermX_report.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
