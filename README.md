@@ -1,4 +1,4 @@
-<h1>Ray Fochler <br/><a href="https://github.com/wranglerray">Cyber Security Enthusiast</a>, <a href="https://www.linkedin.com/in/ray-fochler-b104501a9//">Security Professional</a>, <a href="https://tryhackme.com/p/Wrangler">CTF Junky</a></h1>
+<h1>Ray Fochler <br/><a href="https://github.com/wranglerray">Jr Penetration Tester</a>, <a href="https://www.linkedin.com/in/ray-fochler-b104501a9//">Security Professional</a>, <a href="https://tryhackme.com/p/Wrangler">CTF Junky</a></h1>
 
 <h2>👨‍💻 Certifications:</h2>
 
