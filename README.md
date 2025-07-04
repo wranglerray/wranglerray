@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>Practical Network Penetration Tester</b>
-  - [PNPT](https://www.credential.net/2c21fd82-d37a-461c-8f26-1bbba0c7d8d0)
+
 - <b>HTB Certified Penetration Testing Specialist</b>
   - [CPTS](https://www.credly.com/badges/d8d05364-a06c-4f46-8731-f3eb8bf3d327/public_url)
+- <b> HTB Certified Bug Bounty Hunter
+  - [CBBH](https://www.credly.com/badges/8ebefc1c-a009-4bee-9d1a-472a04c24b14/public_url)
+- <b>Practical Network Penetration Tester</b>
+  - [PNPT](https://www.credential.net/2c21fd82-d37a-461c-8f26-1bbba0c7d8d0)
 - <b>Practical Junior Network Penetration Tester</b>
   - [PJPT](https://www.credential.net/f3e46db5-5a1a-418c-b432-1461910a1002#gs.5l4405)
 - <b>Google</b>
